@@ -387,7 +387,6 @@
             </div>
         </div>
         <!--Weekly Bestseller-->
-        
     </div>
     <!--End Body Content-->
     
