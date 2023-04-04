@@ -1,6 +1,5 @@
 <?php include("top.php") ?>
 
-    
     <!--Body Content-->
     <div id="page-content">
     	<!--Home slider-->

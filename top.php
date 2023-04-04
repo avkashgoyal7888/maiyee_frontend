@@ -51,7 +51,7 @@
         <div class="row align-items-center">
 <!------Desktop Logo----------->
             <div class="logo col-md-2 col-lg-2 d-none d-lg-block">
-                <a href="index.php"><img src="assets/images/logo1.png" height="50px" width="100px"></a>
+                <a href="index.php"><img src="assets/images/logo.png" height="70px" width="70px"></a>
             </div>
 <!-------End Desktop Logo------>
             <div class="col-2 col-sm-3 col-md-3 col-lg-8">
